@@ -1,0 +1,11 @@
+version: '3'
+services:
+  tonbitcoinbot:
+    container_name: 'TonBitcoinBot'
+    build:
+      context: .
+    stop_signal: SIGINT
+    restart: unless-stopped
+    command: "python3 main.py -a 1"
+    volumes:
+      - .:/app
