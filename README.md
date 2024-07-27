@@ -1,13 +1,3 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
-
-[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
-
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/pixelversexyzbot?start=737844465)
-
-<img src="https://github.com/AlexKrutoy/PixelTapBot/assets/65369825/bb62126e-269a-46cd-984b-33b8b80462c6" width="695" height="425"/>
-
-<img src="https://github.com/AlexKrutoy/PixelTapBot/assets/65369825/9e7de3f0-358a-4240-899e-43b4c3dedeb9" width="695" height="425"/>
-
 ## Recommendation before use
 
 # 🔥🔥 Use PYTHON 3.10 🔥🔥
@@ -47,24 +37,6 @@ Before you begin, make sure you have the following installed:
 2. Select "API development tools" and fill out the form to register a new application.
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
-## Installation
-You can download the [**repository**](https://github.com/AlexKrutoy/PixelTapBot) by cloning it to your system and installing the necessary dependencies:
-```shell
-git clone https://github.com/AlexKrutoy/PixelTapBot.git
-cd PixelTapBot
-```
-
-Then you can do automatic installation by typing:
-
-Windows:
-```shell
-run.bat
-```
-
-Linux:
-```shell
-run.sh
-```
 
 # Linux manual installation
 ```shell
@@ -78,9 +50,9 @@ python3 main.py
 
 You can also use arguments for quick start, for example:
 ```shell
-~/PixelTapBot >>> python3 main.py --action (1/2)
+python3 main.py --action (1/2)
 # Or
-~/PixelTapBot >>> python3 main.py -a (1/2)
+python3 main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -98,17 +70,10 @@ python main.py
 
 You can also use arguments for quick start, for example:
 ```shell
-~/PixelTapBot >>> python main.py --action (1/2)
+python main.py --action (1/2)
 # Or
-~/PixelTapBot >>> python main.py -a (1/2)
+python main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
 ```
-
-
-
-
-### Contacts
-
-For support or questions, contact me on Telegram: [@UNKNXWNPLXYA](https://t.me/UNKNXWNPLXYA)

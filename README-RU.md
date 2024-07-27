@@ -1,13 +1,3 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
-
-[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
-
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/pixelversexyzbot?start=737844465)
-
-<img src="https://github.com/AlexKrutoy/PixelTapBot/assets/65369825/bb62126e-269a-46cd-984b-33b8b80462c6" width="695" height="425"/>
-
-<img src="https://github.com/AlexKrutoy/PixelTapBot/assets/65369825/9e7de3f0-358a-4240-899e-43b4c3dedeb9" width="695" height="425"/>
-
 ## Рекомендация перед использованием
 
 # 🔥🔥 Используйте PYTHON 3.10 🔥🔥
@@ -36,8 +26,6 @@
 
 ## Быстрый старт 📚
 
-Для быстрой установки и последующего запуска - запустите файл run.bat на Windows или run.sh на Линукс
-
 ## Предварительные условия
 Прежде чем начать, убедитесь, что у вас установлено следующее:
 - [Python](https://www.python.org/downloads/) **версии 3.10**
@@ -47,24 +35,6 @@
 2. Выберите **"API development tools"** и заполните форму для регистрации нового приложения.
 3. Запишите `API_ID` и `API_HASH` в файле `.env`, предоставленные после регистрации вашего приложения.
 
-## Установка
-Вы можете скачать [**Репозиторий**](https://github.com/AlexKrutoy/PixelTapBot) клонированием на вашу систему и установкой необходимых зависимостей:
-```shell
-git clone https://github.com/AlexKrutoy/PixelTapBot.git
-cd PixelTapBot
-```
-
-Затем для автоматической установки введите:
-
-Windows:
-```shell
-run.bat
-```
-
-Linux:
-```shell
-run.sh
-```
 
 # Linux ручная установка
 ```shell
@@ -78,9 +48,9 @@ python3 main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/PixelTapBot >>> python3 main.py --action (1/2)
+python3 main.py --action (1/2)
 # Or
-~/PixelTapBot >>> python3 main.py -a (1/2)
+python3 main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
@@ -99,17 +69,10 @@ python main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/PixelTapBot >>> python main.py --action (1/2)
+python main.py --action (1/2)
 # Или
-~/PixelTapBot >>> python main.py -a (1/2)
+python main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
 ```
-
-
-
-
-### Контакты
-
-Для поддержки или вопросов, свяжитесь со мной в Telegram: [@UNKNXWNPLXYA](https://t.me/UNKNXWNPLXYA)
